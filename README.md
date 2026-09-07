@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/00834b87-8f2f-46ee-83ba-8ea59b9b53ca
+
 # RTAL WELLENKRAFT 8051
 
 ## An engineering archive documenting the design and implementation of a complete polyphonic digital synthesizer built around the classic 8051 architecture.
@@ -24,6 +28,12 @@
 
 ▶️ [**MP3 anhören**](music/WELLENKRAFT8051.mp3)
 </p>
+
+
+
+https://github.com/user-attachments/assets/5cd76903-e1ce-4c44-8d1a-14fd3ab5d8cb
+
+
 ------------------------------------------------------------------------
 
 # In 2009, I Asked Myself One Question
