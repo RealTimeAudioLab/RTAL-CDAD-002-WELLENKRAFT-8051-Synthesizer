@@ -20,6 +20,11 @@
 *Figure 2 – The RTAL WELLENKRAFT Frontview*
 </p>
 ------------------------------------------------------------------------
+### 🎧 Sound Demo
+
+▶️ [**MP3 anhören**](music/WELLENKRAFT8051.mp3)
+</p>
+------------------------------------------------------------------------
 
 # In 2009, I Asked Myself One Question
 
