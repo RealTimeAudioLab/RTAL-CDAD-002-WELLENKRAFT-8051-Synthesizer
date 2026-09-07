@@ -19,11 +19,9 @@
 <img src="images/Wellenkraft_Front.jpg" width="900">
 *Figure 2 – The RTAL WELLENKRAFT Frontview*
 </p>
+
 ------------------------------------------------------------------------
 ### 🎧 Sound Demo
-
-▶️ [**MP3 anhören**]
-</p>
 https://github.com/user-attachments/assets/5cd76903-e1ce-4c44-8d1a-14fd3ab5d8cb
 </p>
 
