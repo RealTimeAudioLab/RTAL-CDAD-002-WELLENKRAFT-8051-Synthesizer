@@ -21,7 +21,7 @@
 
 https://github.com/user-attachments/assets/ca10c89d-9d0d-45f3-accc-af5cd803d810
 
-*Figure 2 – The RTAL WELLENKRAFT Frontview and Sound Demo*
+*Figure 2 – The RTAL WELLENKRAFT Frontview*
 </p>
 
 ------------------------------------------------------------------------
