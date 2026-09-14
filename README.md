@@ -15,14 +15,13 @@
 <img src="images/Wellenkraft_2.jpg" width="900">
 *Figure 1 – The RTAL WELLENKRAFT in its original 2009 working environment*
 </p>
-<p align="left">
-<img src="images/Wellenkraft_Front.jpg" width="900">
-*Figure 2 – The RTAL WELLENKRAFT Frontview*
-</p>
 
 ------------------------------------------------------------------------
 ### 🎧 Sound Demo
-https://github.com/user-attachments/assets/5cd76903-e1ce-4c44-8d1a-14fd3ab5d8cb
+
+https://github.com/user-attachments/assets/ca10c89d-9d0d-45f3-accc-af5cd803d810
+
+*Figure 2 – The RTAL WELLENKRAFT Frontview and Sound Demo*
 </p>
 
 ------------------------------------------------------------------------
